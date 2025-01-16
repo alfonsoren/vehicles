@@ -20,5 +20,5 @@ El objetivo principal de esta aplicación es ofrecer una herramienta amigable pa
 ## Tecnologías utilizadas
 
 - **Frontend**: Streamlit.
-- **Backend**: Python (pandas, matplotlib, seaborn).
+- **Backend**: Python (pandas,plotly expres).
 - **Dataset**: Datos de anuncios de vehículos usados en formato CSV.
